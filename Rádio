@@ -1,0 +1,19 @@
+#define PRINT_DELAY 1000 // Delay between prints in milliseconds
+
+
+
+void setup (){
+Serial1.begin (9600);
+Serial1.println("Connecting Azores");
+
+
+}
+
+
+void loop (){  
+
+Serial1 .println("Start");
+delay (1000); 
+}
+
+
