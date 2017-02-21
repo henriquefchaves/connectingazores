@@ -1,0 +1,1 @@
+# connectingazores relógio utc
